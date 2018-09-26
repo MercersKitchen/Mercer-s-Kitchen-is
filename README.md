@@ -11,5 +11,6 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 - Library Lending Program
 - Work Space: contrasting wood with technology
 - Cloud-based technology enabling student creativity
+- Wheel-based stools, tables, laptops, keyboards, monitors, & mice
 
 Images and Videos
