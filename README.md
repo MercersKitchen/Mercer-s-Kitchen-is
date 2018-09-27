@@ -14,3 +14,9 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 - Wheel-based stools, tables, laptops, keyboards, monitors, & mice
 
 Images and Videos
+
+Media Events
+
+New Spaces because of computer science, robotics, and networking
+
+New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydro Ponics)
