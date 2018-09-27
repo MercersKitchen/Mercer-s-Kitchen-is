@@ -12,6 +12,8 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 - Work Space: contrasting wood with technology
 - Cloud-based technology enabling student creativity
 - Wheel-based stools, tables, laptops, keyboards, monitors, & mice
+- Equipement Images & PowerPoint of "How to Put Equipement Away, etc.
+- Images of work stations, includeing Campus EPSB Hotrod and Covered Stations
 
 Images and Videos
 
