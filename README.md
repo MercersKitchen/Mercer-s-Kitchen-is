@@ -27,3 +27,5 @@ Media Events
 New Spaces because of computer science, robotics, and networking
 
 New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydro Ponics)
+
+Electrostatic Tools & PowerPoint of workstation images
