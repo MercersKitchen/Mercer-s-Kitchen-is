@@ -3,6 +3,8 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 
 **Mercer's Kitchen is, first, a Wellness Center for learners to experience Computer Studies**
 
+**Starting with Project-based Learning ... Teaching Computer Science, Robotics, and Networking hands-on through entertainment, automation, and other applications in a re-vision "Cottage Industry"**
+
 ---
 
 # Ideas to Include
