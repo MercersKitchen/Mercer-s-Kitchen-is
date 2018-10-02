@@ -40,3 +40,9 @@ New Spaces because of computer science, robotics, and networking
 New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydro Ponics)
 
 Electrostatic Tools & PowerPoint of workstation images
+
+Where do files live?
+- Server, Hard Drive, "Cloud"
+- File Strucutre and Organization
+- Back up and using various software
+- Accessing notes and examples with comments
