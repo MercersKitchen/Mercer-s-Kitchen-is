@@ -5,6 +5,17 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 
 **Starting with Project-based Learning ... Teaching Computer Science, Robotics, and Networking hands-on through entertainment, automation, and other applications in a re-vision "Cottage Industry"**
 
+--- 
+
+MercersKitchen is directed by Mark Mercer
+- Prime Minister's Teaching Excellence Award
+- Alberta Education's Excellence in Teaching Finalist
+- Friend of the Mathematics Council of the Alberta Teachers' Association (Yearly Award)
+
+Mark Mercer currently teaches at Queen Elizabeth High School in Edmonton Public Schools
+- Innovate Lab & Learning Commons
+- Edmonton, Alberta
+
 ---
 
 # Ideas to Include
