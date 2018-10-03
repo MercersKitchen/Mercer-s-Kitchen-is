@@ -46,3 +46,10 @@ Where do files live?
 - File Strucutre and Organization
 - Back up and using various software
 - Accessing notes and examples with comments
+
+Projects and Asignments End in Authentic Evaluation, Assessment
+- Evaluation is through Industry Personel (owners and others) and Post Secondary Staff (professors, grad students, students)
+- Presentations to them on a specific date (similar to exam date)
+- End of year
+- Consistent with Advanced Placement Digital Portfolio submissions (Computer Scinece Principles or Capstone Project)
+- Complete with Logo, Colours, and caption: "CS Pitches"
