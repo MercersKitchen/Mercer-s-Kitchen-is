@@ -53,3 +53,7 @@ Projects and Asignments End in Authentic Evaluation, Assessment
 - End of year
 - Consistent with Advanced Placement Digital Portfolio submissions (Computer Scinece Principles or Capstone Project)
 - Complete with Logo, Colours, and caption: "CS Pitches"
+
+Consider Links to Various Public Repositories
+- Clubs adn Teams
+- Physical Computing, High School Edition: CS, Robotics, Networking, and expension of Scinece 5 and 9, Physics 20 & 30 Curriculum similarities
