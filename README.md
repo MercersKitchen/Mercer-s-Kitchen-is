@@ -5,6 +5,8 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 
 **Starting with Project-based Learning ... Teaching Computer Science, Robotics, and Networking hands-on through entertainment, automation, and other applications in a re-vision "Cottage Industry"**
 
+**UNDER CONSTRUCTION**
+
 --- 
 
 MercersKitchen is directed by Mark Mercer
