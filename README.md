@@ -57,3 +57,7 @@ Projects and Asignments End in Authentic Evaluation, Assessment
 Consider Links to Various Public Repositories
 - Clubs adn Teams
 - Physical Computing, High School Edition: CS, Robotics, Networking, and expension of Scinece 5 and 9, Physics 20 & 30 Curriculum similarities
+
+Communcation
+- CS Pitches: Computer Science, Robotics, Netowrking Project-based learning
+- TedX Presentation, Skills Alberta Presentation Competition
