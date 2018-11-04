@@ -37,6 +37,9 @@ Images and Videos
 
 Media Events
 
+Supporting Undergraduate Work
+- Interviews for Improving Computer Studies Education
+
 New Spaces because of computer science, robotics, and networking
 
 New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydro Ponics)
