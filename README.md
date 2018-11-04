@@ -14,9 +14,9 @@ MercersKitchen is directed by Mark Mercer
 - Alberta Education's Excellence in Teaching Finalist
 - Friend of the Mathematics Council of the Alberta Teachers' Association (Yearly Award)
 
-Mark Mercer currently teaches at Queen Elizabeth High School in Edmonton Public Schools
-- Innovate Lab & Learning Commons
-- Edmonton, Alberta
+Mark Mercer currently teaches at Queen Elizabeth High School in Edmonton Public Schools (Edmonton, Alberta)
+- Innovate Lab & Learning Commons (Program Specific)
+- Campus EPSB (Edmonton Public Schools Flagship Program)
 
 ---
 
