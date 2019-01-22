@@ -7,7 +7,7 @@ A description of Mercer's Kitchen: hardware, software, and items in-between to s
 
 **UNDER CONSTRUCTION**
 
---- 
+---
 
 MercersKitchen is directed by Mark Mercer
 - Prime Minister's Teaching Excellence Award
@@ -66,3 +66,7 @@ Consider Links to Various Public Repositories
 Communcation
 - CS Pitches: Computer Science, Robotics, Netowrking Project-based learning
 - TedX Presentation, Skills Alberta Presentation Competition
+
+Lifelong Interests
+- Firstaid: Currently an active member of the Canadian Ski Patrol, former lifeguard
+- Artistic: Tenor Saxophone
