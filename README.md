@@ -66,6 +66,7 @@ Consider Links to Various Public Repositories
 Communcation
 - CS Pitches: Computer Science, Robotics, Netowrking Project-based learning
 - TedX Presentation, Skills Alberta Presentation Competition
+- Developers Outreach
 
 Lifelong Interests
 - Firstaid: Currently an active member of the Canadian Ski Patrol, former lifeguard
