@@ -21,17 +21,17 @@ Mark Mercer currently teaches at Queen Elizabeth High School in Edmonton Public 
 ---
 
 # Ideas to Include
-- Projects live: on GitHub (software) & in Tuperware boxes, for IoT Hardware; perhpas Raspberry Pi Oven or Serving Shelf
+- Projects live: on GitHub (software) & in Tuperware boxes, for IoT Hardware; perhaps Raspberry Pi Oven or Serving Shelf
 - Raspberry Pi Oven
 - Outside line: cyber security
 - Support for building Arduino
-- CLonezilla Server with NAT DHCP baking open source freeware into old laptops and desktops, running faster than Chromebooks
+- Clonezilla Server with NAT DHCP baking open source freeware into old laptops and desktops, running faster than Chromebooks
 - Library Lending Program
 - Work Space: contrasting wood with technology
 - Cloud-based technology enabling student creativity
 - Wheel-based stools, tables, laptops, keyboards, monitors, & mice
-- Equipement Images & PowerPoint of "How to Put Equipement Away, etc.
-- Images of work stations, includeing Campus EPSB Hotrod and Covered Stations
+- Equipment Images & PowerPoint of "How to Put Equipment Away, etc.
+- Images of work stations, including Campus EPSB Hotrod and Covered Stations
 
 Images and Videos
 
@@ -42,31 +42,35 @@ Supporting Undergraduate Work
 
 New Spaces because of computer science, robotics, and networking
 
-New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydro Ponics)
+New Program because of QE Capacity: Innovate (Farm Bot, Robotic Hydroponics)
 
 Electrostatic Tools & PowerPoint of workstation images
 
 Where do files live?
 - Server, Hard Drive, "Cloud"
-- File Strucutre and Organization
+- File Structure and Organization
 - Back up and using various software
 - Accessing notes and examples with comments
 
-Projects and Asignments End in Authentic Evaluation, Assessment
-- Evaluation is through Industry Personel (owners and others) and Post Secondary Staff (professors, grad students, students)
+Projects and Assignments End in Authentic Evaluation, Assessment
+- Evaluation is through Industry Personnel (owners and others) and Post Secondary Staff (professors, grad students, students)
 - Presentations to them on a specific date (similar to exam date)
 - End of year
-- Consistent with Advanced Placement Digital Portfolio submissions (Computer Scinece Principles or Capstone Project)
+- Consistent with Advanced Placement Digital Portfolio submissions (Computer Science Principles or Capstone Project)
 - Complete with Logo, Colours, and caption: "CS Pitches"
 
 Consider Links to Various Public Repositories
 - Clubs adn Teams
-- Physical Computing, High School Edition: CS, Robotics, Networking, and expension of Scinece 5 and 9, Physics 20 & 30 Curriculum similarities
+- Physical Computing, High School Edition: CS, Robotics, Networking, and extension of Science 5 and 9, Physics 20 & 30 Curriculum similarities
 
-Communcation
-- CS Pitches: Computer Science, Robotics, Netowrking Project-based learning
+Communication
+- CS Pitches: Computer Science, Robotics, Networking Project-based learning
 - TedX Presentation, Skills Alberta Presentation Competition
 - Developers Outreach
+
+Whole School Projects and Initiatives
+- "Good for a Sub" encourages Substitutes and students to increase low key learning in the classroom, especially with information and topics that is unique or specialized to teachers and students
+  - <a href="https://drive.google.com/drive/folders/10gdeYqGnsrFZ6rP3-5W6h3_KaA_YdTNS">Private Files and Ideas</a>
 
 Lifelong Interests
 - Firstaid: Currently an active member of the Canadian Ski Patrol, former lifeguard
